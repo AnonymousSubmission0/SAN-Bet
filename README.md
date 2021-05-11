@@ -10,6 +10,12 @@ Experiments were conducted with packages below:
 * NetworkX 2.5
 * NetworKit 7.1
 
+### Preparation
+For prepare datasets, run the code as:
+`python generate_graph.py`
+`python create_dataset.py`
+in "datasets" folder.
+
 ### Ranking approximation
 For ranking approximation on scale-free graph, run the code as:  
 `python run_Ranking.py --g SF`  
