@@ -11,9 +11,9 @@ Experiments were conducted with packages below:
 * NetworKit 7.1
 
 ### Preparation
-For prepare datasets, run the code as:
-`python generate_graph.py`
-`python create_dataset.py`
+For prepare datasets, run the code as:  
+`python generate_graph.py`  
+`python create_dataset.py`  
 in "datasets" folder.
 
 ### Ranking approximation
